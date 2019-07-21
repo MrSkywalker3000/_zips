@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.iswitchstreamslive"
+       name="[COLORfffefe33][B][I]iSw!tch Streams[/I][/B][/COLOR][COLORffff0066] .•°[/COLOR]"
+       version="1.1"
+       provider-name="[COLORffff0066][B][I]iSw!tch Streams[/I][/B][/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[COLORffff0066][I]iSw!tch Streams[/I][/COLOR][COLORfffefe33] .•°[/COLOR]</summary>
+    <language>en</language>
+    <description lang="en">[COLORfffefe33][B][I]DISCOVER THE FUTURE OF LIVE TV[/I][/B][/COLOR][CR][COLOR white]For more info on packages and prices go to:[/COLOR][CR][COLOR ffff0066]https://iswitchlive.mytvpro.org[/COLOR]</description>
+     <platform>all</platform>
+  </extension>
+</addon>

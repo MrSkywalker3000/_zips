@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.iswitchstreams.demo"
+  name="[COLORfffefe33][B][I]iSw!tch Streams[/I][/B][/COLOR][COLORffff0066] .•°[/COLOR] Demo"
+  version="1.0" 
+  provider-name="iSwitch">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.script" library="addon.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">[COLORffff0066][I]iSw!tch Streams[/I][/COLOR] Demo Menu System</summary>
+    <description lang="en">[COLORfffefe33][B][I]DISCOVER THE FUTURE OF LIVE TV[/I][/B][/COLOR][CR][COLOR white]For more info on packages and prices go to:[/COLOR][CR][COLOR ffff0066]https://iswitchlive.mytvpro.org[/COLOR]</description>
+	<disclaimer>Small Simple Script for iSwitch Menu System</disclaimer>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.gif</fanart>      
+    </assets>
+  </extension>
+</addon>
