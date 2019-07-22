@@ -40,7 +40,7 @@
 
 <addon id="plugin.video.iswitchstreamslive"
        name="[COLORfffefe33][B][I]iSw!tch Streams[/I][/B][/COLOR][COLORffff0066] .•°[/COLOR]"
-       version="1.1"
+       version="1.2"
        provider-name="[COLORffff0066][B][I]iSw!tch Streams[/I][/B][/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
